@@ -39,14 +39,14 @@
 <table>
   <tr>
     <td>Profile visitor</td>
-    <td><img src="https://profile-counter.glitch.me/sunanda35/count.svg" alt="" /></td>
+    <td><img src="https://profile-counter.glitch.me/sunanda35/count.svg" alt="Sunanda's Profile visit counter" /></td>
   </tr>
 </table>
 <br/>
 
-### ***Weekly Wakatime Stats:***
-<a href="https://wakatime.com/@sunanda35">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sunanda35&layout=compact&theme=chartreuse-dark" />
+### ***Weekly Program Stats:***
+
+![Wakatime weekly stat](https://github-readme-stats.vercel.app/api/wakatime?username=sunanda35&layout=compact&theme=chartreuse-dark) 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&layout=compact&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&layout=compact&theme=chartreuse-dark" />
