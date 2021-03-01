@@ -7,7 +7,7 @@
 - 📝 Portfolio: [https://sunanda35.github.io](https://sunanda35.github.io).
 - 🌱 I’m currently learning Typescript and Android.
 - 🖥 Competitive Programmer
-- 🎮 Call-of-Duty mobile: ÌNSӒNÉ
+- 🎮 Call-of-Duty mobile on free time: ÌNSӒNÉ
 <br/>
 <br/>
 
@@ -36,10 +36,12 @@
 <code><img height="20" src="https://github.com/sunanda35/sunanda35/blob/master/assets/tools/java.svg"></code>
 
 
+
 <br/>
 
-### ***Weekly Wakatime Stats:***
-![Sunanda's weekly wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sunanda35&layout=compact&theme=chartreuse-dark)
+### ***Weekly Program Stats:***
+
+![Wakatime weekly stat](https://github-readme-stats.vercel.app/api/wakatime?username=sunanda35&layout=compact&theme=chartreuse-dark) 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&layout=compact&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&layout=compact&theme=chartreuse-dark" />
