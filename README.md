@@ -36,12 +36,6 @@
 <code><img height="20" src="https://github.com/sunanda35/sunanda35/blob/master/assets/tools/java.svg"></code>
 
 
-<table>
-  <tr>
-    <td>Profile visitor</td>
-    <td><img src="https://profile-counter.glitch.me/sunanda35/count.svg" alt="" /></td>
-  </tr>
-</table>
 <br/>
 
 ### ***Weekly Wakatime Stats:***
