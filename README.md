@@ -23,7 +23,7 @@
   <img align="left" alt="Sunanda_facebook" width="21px" src="https://github.com/sunanda35/sunanda35/blob/master/assets/social/facebook.svg" />
 </a>
 <a href="https://centocode.com/">
-  <img style="margin-right: 10px" align="left" alt="Sunanda_blog" width="21px" src="https://github.com/sunanda35/sunanda35/blob/master/assets/social/global.svg" />
+  <img style="margin-right: 10px" align="left" alt="Sunanda_blog" width="21px" src="https://github.com/sunanda35/sunanda35/blob/master/assets/social/world-wide-web.svg" />
 </a>
 <a href="https://dev.to/sunanda35">
   <img style="margin-right: 10px" align="left" alt="Sunanda_dev" width="21px" src="https://github.com/sunanda35/sunanda35/blob/master/assets/social/dev.svg" />
