@@ -5,7 +5,7 @@
 <br/>
 
 - 📝 Portfolio: [https://sunanda35.github.io](https://sunanda35.github.io).
-- 🌱 I’m currently learning Typescript and DevOps.
+- 🌱 I’m currently learning DevOps.
 - 🖥 Competitive Programmer
 - 🎮 Call-of-Duty mobile on free time: ÌNSӒNÉ
 <br/>
