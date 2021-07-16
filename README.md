@@ -43,11 +43,11 @@
 
 <br/>
 
-<details><summary><b>Weekly Program Stats</></summary>
+<!-- <details><summary><b>Weekly Program Stats</></summary>
 
 ![Wakatime weekly stat](https://github-readme-stats.vercel.app/api/wakatime?username=sunanda35&layout=compact&theme=chartreuse-dark)
 
-</details>
+</details> -->
 <br/>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&layout=compact&theme=chartreuse-dark">
