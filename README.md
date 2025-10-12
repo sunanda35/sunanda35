@@ -3,7 +3,7 @@
 
 I'm Sunanda, a tech enthusiast, who loves turning ideas into code and code into applications. Let's dive deep into the world of code and create magic together! 🚀
 
-<h3 align="center">🌟 Web & App Developer | Competitive Programmer 🌟</h3>
+<h3 align="center">🌟 Developer | Competitive Programmer 🌟</h3>
 
 ---
 
