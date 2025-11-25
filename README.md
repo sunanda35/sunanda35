@@ -1,50 +1,92 @@
+### `root@sunanda:~# ./init_profile.sh`
 
-### Hey there! 👋
-
-I'm Sunanda, a tech enthusiast, who loves turning ideas into code and code into applications. Let's dive deep into the world of code and create magic together! 🚀
-
-<h3 align="center">🌟 Developer | Competitive Programmer 🌟</h3>
+**Software Engineer** | *Building Scalable & Distributed Systems*
 
 ---
 
-<h4 align="center">🚀 About Me 🚀</h4>
+## 🧿 Who Am I?
 
-<div align="center">
+I work best where things get complex —  
+high-throughput queues, multi-service workflows, cloud architecture, and systems where one tiny mistake can wake you up at 3AM.
 
-📚 **Portfolio** | [Sunanda's Portfolio](https://sunanda35.github.io)
-<br>
-🛠 **Learning** | Advancing my journey in DevOps
-<br>
-🏆 **Coding** | Competitive Programming is my sport!
-<br>
-🎮 **Gaming** | Call-of-Duty mobile IGN: ÌNSӒNÉ
+If something needs to scale, self-heal, or survive production chaos —  
+that’s usually where I step in.
 
-</div>
-
----
-<div align="center">
-
-🤣 **Random Fact** | Did you know the first computer bug was an actual bug? In 1947, Grace Hopper found a moth inside a computer which was causing issues. Now, just imagine if every software bug today required bug spray and a swatter! 🦋🤣
-
-</div>
+I build things that scale, tolerate failure, self-heal, and still look so elegant, just like a WOW.😏
 
 ---
 
-<h4 align="center">Connect with Me 🌎</h4>
+### 📂 `/usr/bin/skills` (The Stack)
+
+```bash
+.
+├── ☁️ cloud_infrastructure
+│   ├── aws                  # Lambda, EC2, S3, RDS, SNS/SQS
+│   ├── gcp                  # Cloud Run, Pub/Sub, BigQuery
+│   └── devops               # Docker, CI/CD, Load balancers, Observability
+│
+├── 🏛️ backend_core
+│   ├── nodejs_ts            # Event loops, workers, distributed queues
+│   ├── microservices        # Async flows, idempotency, reliability
+│   └── rust                 # Performance, memory-safety flex
+│
+├── 🗄️ persistence_layer
+│   ├── postgresql           # Weird queries → clean query plans
+│   ├── cassandra            # Write-heavy, planet-scale durability
+│   ├── mongodb              # Document modeling done right
+│   ├── arangodb             # Graph relationships
+│   └── redis                # Pub/Sub, caching, rate limits
+│
+├── ⛓️ web3_&_systems
+│   ├── solana               # Parallel world of transactions
+│   └── arduino_c++          # Sensors, signals, and soldering burns
+│
+└── 🐍 scripting
+    └── python               # Automation, scripts, data pipelines
+```
+
+---
+
+### 📊 Commit Telemetry
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sunanda35/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn&logoColor=white"></a>
-<a href="https://twitter.com/sunanda_35" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&logoColor=white"></a>
-<a href="https://dev.to/sunanda35" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.to-0A0A0A?logo=dev.to&logoColor=white"></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunanda35&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">🌱 My Most Used Languages</h3>
+### 👾 `User.status`
 
-<p align="center">
-  <a href="https://github.com/sunanda35">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunanda35&theme=radical&layout=compact" />
-  </a>
-</p>
+```ini
+[status]
+online = true
+game   = "Call of Duty"
+music  = "Hard Techno"  # BPM > productivity
+
+[connect]
+linkedin = "https://www.linkedin.com/in/sunanda35"
+twitter  = "https://x.com/0xSunanda"
+```
+
+---
+
+### 🧩 Engineering Philosophy
+
+> *“Systems fail.  
+Great engineers design architectures that expect failure and still deliver.”*
+
+* `Reliability` > `Shiny Tools`
+* `Performance` > `Hype`
+* `Architecture` > `Chaos`
+* `Clarity`       > `Cleverness`
+
+I believe in `idempotency`, `observability`, `retry logic`, `queues`, `caching`, `infra clarity`, and `clean boundaries`.
+
+Everything else is just flavor.
+
+---
+
+### 🛰️ Terminal Output
+
+`echo "Boot sequence complete. Systems optimal. Deploying next idea..."`
 
