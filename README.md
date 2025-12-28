@@ -58,13 +58,6 @@ drwxr-xr   js-std          [IN-DEV]    JS package
 ```
 > `$ readlink -f ./favorites`: [devutils.lol](https://devutils.lol)
 
----
-
-### 📊 Commit Telemetry
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunanda35&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
