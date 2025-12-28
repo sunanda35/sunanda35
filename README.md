@@ -47,6 +47,19 @@ I build things that scale, tolerate failure, self-heal, and still look so elegan
 
 ---
 
+### ❯ `~/side_quests` _(After-Party)_
+
+```bash
+$ ls -la projects/ --status --brief
+
+PERMS      PROJECT         STATUS      DESCRIPTION
+drwxr-xr   devutils.lol    [ACTIVE]    Client-side only. RAM-powered. 0-latency.
+drwxr-xr   js-std          [IN-DEV]    JS package
+```
+> `$ readlink -f ./favorites`: [devutils.lol](https://devutils.lol)
+
+---
+
 ### 📊 Commit Telemetry
 
 <p align="center">
@@ -55,17 +68,18 @@ I build things that scale, tolerate failure, self-heal, and still look so elegan
 
 ---
 
-### 👾 `User.status`
+### 👾 `User.config`
 
 ```ini
-[status]
-online = true
-game   = "Call of Duty"
-music  = "Hard Techno"  # BPM > productivity
+[runtime]
+state   = "active"
+process = "Call of Duty"
+music   = "Hard Techno"  # BPM > 145
+fuel    = "caffeine_overflow"
 
 [connect]
-linkedin = "https://www.linkedin.com/in/sunanda35"
-twitter  = "https://x.com/0xSunanda"
+linkedin   = "https://www.linkedin.com/in/sunanda35"
+twitter(X) = "https://x.com/0xSunanda"
 ```
 
 ---
@@ -75,10 +89,10 @@ twitter  = "https://x.com/0xSunanda"
 > *“Systems fail.  
 Great engineers design architectures that expect failure and still deliver.”*
 
-* `Reliability` > `Shiny Tools`
-* `Performance` > `Hype`
+* `Reliability`  > `Shiny Tools`
+* `Performance`  > `Hype`
 * `Architecture` > `Chaos`
-* `Clarity`       > `Cleverness`
+* `Clarity`      > `Cleverness`
 
 I believe in `idempotency`, `observability`, `retry logic`, `queues`, `caching`, `infra clarity`, and `clean boundaries`.
 
