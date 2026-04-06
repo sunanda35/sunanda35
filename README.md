@@ -1,18 +1,15 @@
 ### `root@sunanda:~# ./init_profile.sh`
 
-**Software Engineer** | *Building Scalable & Distributed Systems*
+**Software Engineer** | *Engineer focused on systems, scale, and failure.*
 
 ---
 
 ## 🧿 Who Am I?
 
-I work best where things get complex —  
-high-throughput queues, multi-service workflows, cloud architecture, and systems where one tiny mistake can wake you up at 3AM.
+Backend engineer working on systems that break under load.
 
-If something needs to scale, self-heal, or survive production chaos —  
-that’s usually where I step in.
-
-I build things that scale, tolerate failure, self-heal, and still look so elegant, just like a WOW.😏
+I design like failure is expected —
+because it usually is.
 
 ---
 
@@ -32,10 +29,10 @@ I build things that scale, tolerate failure, self-heal, and still look so elegan
 │
 ├── 🗄️ persistence_layer
 │   ├── postgresql           # Weird queries → clean query plans
-│   ├── cassandra            # Write-heavy, planet-scale durability
-│   ├── mongodb              # Document modeling done right
-│   ├── arangodb             # Graph relationships
-│   └── redis                # Pub/Sub, caching, rate limits
+│   ├── cassandra            # Writes fast. Reads... depends 😏
+│   ├── mongodb              # Schema-less until it isn’t
+│   ├── arangodb             # Graphs when joins get ugly
+│   └── redis                # Pub/Sub, caching, rate limits, cuz speed fixes feelings.
 │
 ├── ⛓️ web3_&_systems
 │   ├── solana               # Parallel world of transactions
@@ -53,7 +50,8 @@ I build things that scale, tolerate failure, self-heal, and still look so elegan
 $ ls -la projects/ --status --brief
 
 PERMS      PROJECT         STATUS      DESCRIPTION
-drwxr-xr   devutils.lol    [ACTIVE]    Client-side only. RAM-powered. 0-latency.
+drwxr-xr   devutils.lol    [ACTIVE]    Built because I got tired of slow tools.
+                                       Runs on your Resource. If it lags, it's your fault 😏
 drwxr-xr   js-std          [IN-DEV]    JS package
 ```
 > `$ readlink -f ./favorites`: [devutils.lol](https://devutils.lol)
@@ -68,7 +66,7 @@ drwxr-xr   js-std          [IN-DEV]    JS package
 state   = "active"
 process = "Call of Duty"
 music   = "Hard Techno"  # BPM > 145
-fuel    = "caffeine_overflow"
+fuel    = "caffeine, anime"
 
 [connect]
 linkedin   = "https://www.linkedin.com/in/sunanda35"
@@ -79,17 +77,18 @@ twitter(X) = "https://x.com/0xSunanda"
 
 ### 🧩 Engineering Philosophy
 
-> *“Systems fail.  
-Great engineers design architectures that expect failure and still deliver.”*
+> *“Systems fail. That’s normal.”*
+
+So I design with that in mind —
+> retries aren’t optional,
+> logs need to tell the truth,
+> and one bad component shouldn’t take everything down.
 
 * `Reliability`  > `Shiny Tools`
 * `Performance`  > `Hype`
-* `Architecture` > `Chaos`
 * `Clarity`      > `Cleverness`
 
-I believe in `idempotency`, `observability`, `retry logic`, `queues`, `caching`, `infra clarity`, and `clean boundaries`.
-
-Everything else is just flavor.
+Everything else is just trade-offs.
 
 ---
 
